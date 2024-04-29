@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository 
 <br>
-Auther - Khalid Sayyed 
+Auther - Khalid (Mohammed Saeed) Sayyed 
